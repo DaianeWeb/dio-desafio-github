@@ -1,6 +1,3 @@
-
-Claro! Aqui está a versão com emojis:
-
 DIO Desafio de Código Git/GitHub 💻
 
 Descrição do Projeto:
